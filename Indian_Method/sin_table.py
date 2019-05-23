@@ -1,6 +1,6 @@
 from indian_method_functions import *
 
-# HELLO GIT VERSION MACOS
+
 
 sin_table = [[3.75, 225], [7.5, 449], [11.25, 671], [15, 890], 
 			[18.75, 1105], [22.5, 1315 ], [26.25, 1520], [30, 1719], 
